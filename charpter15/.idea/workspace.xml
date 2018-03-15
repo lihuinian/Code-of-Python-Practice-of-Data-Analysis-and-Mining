@@ -11,7 +11,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/charpter15$nltk_test.coverage" NAME="nltk_test Coverage Results" MODIFIED="1521113699289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NLP-Practice" />
-    <SUITE FILE_PATH="coverage/charpter15$15_2_clean_same.coverage" NAME="15_2_clean_same Coverage Results" MODIFIED="1521114225453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/charpter15$15_2_clean_same.coverage" NAME="15_2_clean_same Coverage Results" MODIFIED="1521115057222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/charpter15$4_4_line_rate_construct.coverage" NAME="4-4_line_rate_construct Coverage Results" MODIFIED="1521083783828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../charpter4" />
     <SUITE FILE_PATH="coverage/charpter15$4_1_lagrange_newton_interp.coverage" NAME="4-1_lagrange_newton_interp Coverage Results" MODIFIED="1521095341497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../charpter4" />
     <SUITE FILE_PATH="coverage/charpter15$tokenize.coverage" NAME="tokenize Coverage Results" MODIFIED="1521114097883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NLP-Practice" />
@@ -37,8 +37,8 @@
       <file leaf-file-name="15_2_clean_same.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/15_2_clean_same.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="66">
+              <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -75,8 +75,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/NLP-Practice/tokenize.py" />
-        <option value="$PROJECT_DIR$/15_2_clean_same.py" />
         <option value="$PROJECT_DIR$/15_1_excel2txt.py" />
+        <option value="$PROJECT_DIR$/15_2_clean_same.py" />
       </list>
     </option>
   </component>
@@ -671,8 +671,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/15_2_clean_same.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="66">
+          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
           <folding />
         </state>
       </provider>
